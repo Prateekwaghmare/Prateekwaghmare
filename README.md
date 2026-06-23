@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Prateek Waghmare
 
-![Profile Views]([https://komarev.com/ghpvc/?username=itsmoksh](https://komarev.com/ghpvc/?username=Prateekwaghmare&color=green))
+![Profile Views](https://komarev.com/ghpvc/?username=Prateekwaghmare&color=green)
 
 ---
 
