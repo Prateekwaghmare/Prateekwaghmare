@@ -202,7 +202,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prateekwaghmare&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Prateekwaghmare&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8)
 
 </div>
 
