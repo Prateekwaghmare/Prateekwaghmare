@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9C0&height=210&section=header&text=Prateek%20Waghmare&fontSize=48&fontColor=E6FFFA&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%26%20Data%20Enthusiast&descAlignY=62&fontAlignY=35&animation=fadeIn)
+![Banner](https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:00D9C0&height=210&section=header&text=Prateek%20Waghmare&fontSize=48&fontColor=E6FFFA&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20and%20Data%20Enthusiast&descAlignY=62&fontAlignY=35&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1200&color=00D9C0&center=true&vCenter=true&width=650&height=110&lines=%24+whoami;Prateek+Waghmare+%E2%80%94+Aspiring+Data+Scientist;%24+stack+--list;Python+%7C+SQL+%7C+Scikit-learn+%7C+XGBoost+%7C+FastAPI;%24+status;Open+to+Data+Scientist+%2F+ML+Engineer+roles)](https://git.io/typing-svg)
 
