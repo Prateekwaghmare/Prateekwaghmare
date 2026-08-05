@@ -191,7 +191,7 @@ Data analysis project evaluating credit card launch performance using statistica
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateekwaghmare&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9C0&icon_color=00D9C0&text_color=E6FFFA&ring_color=00D9C0)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Prateekwaghmare&hide_border=true&background=0D1117&stroke=00D9C0&ring=00D9C0&fire=00D9C0&currStreakLabel=00D9C0&sideLabels=E6FFFA&currStreakNum=E6FFFA&sideNums=E6FFFA&dates=E6FFFA)
+![Streak Stats](https://streak-stats.demolab.com/?user=Prateekwaghmare&hide_border=true&background=0D1117&stroke=00D9C0&ring=00D9C0&fire=00D9C0&currStreakLabel=00D9C0&sideLabels=E6FFFA&currStreakNum=E6FFFA&sideNums=E6FFFA&dates=E6FFFA)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekwaghmare&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=E6FFFA)
 
 </div>
