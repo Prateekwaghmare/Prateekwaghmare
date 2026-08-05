@@ -202,7 +202,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Prateekwaghmare&theme=flat&no-frame=true&column=7&title_color=00D9C0&icon_color=00D9C0&text_color=E6FFFA&background=0D1117)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Prateekwaghmare&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8)
 
 </div>
 
@@ -222,13 +222,13 @@ Data analysis project evaluating credit card launch performance using statistica
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekwaghmare&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekwaghmare&theme=github_dark&title_color=00D9C0&text_color=E6FFFA&bg_color=0D1117&icon_color=00D9C0&border_color=00D9C0)
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prateekwaghmare&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prateekwaghmare&theme=github_dark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prateekwaghmare&theme=github_dark&title_color=00D9C0&text_color=E6FFFA&bg_color=0D1117&icon_color=00D9C0&border_color=00D9C0&chart_color=00D9C0)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prateekwaghmare&theme=github_dark&title_color=00D9C0&text_color=E6FFFA&bg_color=0D1117&icon_color=00D9C0&border_color=00D9C0&chart_color=00D9C0)
 <br/>
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prateekwaghmare&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prateekwaghmare&theme=github_dark&utcOffset=5.5)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prateekwaghmare&theme=github_dark&title_color=00D9C0&text_color=E6FFFA&bg_color=0D1117&icon_color=00D9C0&border_color=00D9C0)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prateekwaghmare&theme=github_dark&utcOffset=5.5&title_color=00D9C0&text_color=E6FFFA&bg_color=0D1117&icon_color=00D9C0&border_color=00D9C0&chart_color=00D9C0)
 
 </div>
 
