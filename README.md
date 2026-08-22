@@ -21,7 +21,7 @@
 
 ---
 
-## `$ about-me`
+## `About-Me`
 
 I'm a final-year B.E. CSE (Data Science) student building end-to-end ML systems — from data cleaning to deployed apps. My work spans banking, healthcare, and fintech use cases, and I'm currently deepening my skills in NLP and Generative AI while actively job-hunting for my first full-time role.
 
@@ -35,7 +35,7 @@ OPEN_TO     = ["Data Scientist", "Data Analyst", "ML Engineer"]
 
 ---
 
-## `$ tech-stack --list`
+## `Tech-stack `
 
 <div align="center">
 
@@ -66,7 +66,7 @@ OPEN_TO     = ["Data Scientist", "Data Analyst", "ML Engineer"]
 
 ---
 
-## `$ specialties --tag`
+## `specialties --tag`
 
 <div align="center">
 
@@ -80,7 +80,7 @@ OPEN_TO     = ["Data Scientist", "Data Analyst", "ML Engineer"]
 
 ---
 
-## `$ cat expertise.md`
+## `expertise.md`
 
 <div align="center">
 
@@ -149,7 +149,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ history --project-log`
+## `History --project-log`
 
 **Project & Learning Timeline** *(project-based — no formal work experience yet)*
 
@@ -161,7 +161,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ cat achievements.md`
+## `Achievements.md`
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ cat education.md`
+## `Education.md`
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ github-analytics --render`
+## `Github-analytics --render`
 
 <div align="center">
 
@@ -198,7 +198,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ trophies --show`
+## `trophies --show`
 
 <div align="center">
 
@@ -208,7 +208,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ activity-graph --render`
+## `activity-graph --render`
 
 <div align="center">
 
@@ -218,7 +218,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ summary-cards --render`
+## `summary-cards --render`
 
 <div align="center">
 
@@ -234,7 +234,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ ./contribution-snake.sh`
+## `./contribution-snake.sh`
 
 <div align="center">
 
@@ -244,7 +244,7 @@ Data analysis project evaluating credit card launch performance using statistica
 
 ---
 
-## `$ cat current-focus.yaml`
+## `current-focus.yaml`
 
 ```yaml
 current_focus:
@@ -267,7 +267,7 @@ current_focus:
 
 ---
 
-## `$ connect --with-me`
+## `Connect --with-me`
 
 <div align="center">
 
